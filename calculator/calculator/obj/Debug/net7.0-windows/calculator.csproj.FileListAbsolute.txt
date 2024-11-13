@@ -1,0 +1,16 @@
+E:\visual programming tasks\calculator\calculator\bin\Debug\net7.0-windows\calculator.exe
+E:\visual programming tasks\calculator\calculator\bin\Debug\net7.0-windows\calculator.deps.json
+E:\visual programming tasks\calculator\calculator\bin\Debug\net7.0-windows\calculator.runtimeconfig.json
+E:\visual programming tasks\calculator\calculator\bin\Debug\net7.0-windows\calculator.dll
+E:\visual programming tasks\calculator\calculator\bin\Debug\net7.0-windows\calculator.pdb
+E:\visual programming tasks\calculator\calculator\obj\Debug\net7.0-windows\calculator.Form1.resources
+E:\visual programming tasks\calculator\calculator\obj\Debug\net7.0-windows\calculator.csproj.GenerateResource.cache
+E:\visual programming tasks\calculator\calculator\obj\Debug\net7.0-windows\calculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual programming tasks\calculator\calculator\obj\Debug\net7.0-windows\calculator.AssemblyInfoInputs.cache
+E:\visual programming tasks\calculator\calculator\obj\Debug\net7.0-windows\calculator.AssemblyInfo.cs
+E:\visual programming tasks\calculator\calculator\obj\Debug\net7.0-windows\calculator.csproj.CoreCompileInputs.cache
+E:\visual programming tasks\calculator\calculator\obj\Debug\net7.0-windows\calculator.dll
+E:\visual programming tasks\calculator\calculator\obj\Debug\net7.0-windows\refint\calculator.dll
+E:\visual programming tasks\calculator\calculator\obj\Debug\net7.0-windows\calculator.pdb
+E:\visual programming tasks\calculator\calculator\obj\Debug\net7.0-windows\calculator.genruntimeconfig.cache
+E:\visual programming tasks\calculator\calculator\obj\Debug\net7.0-windows\ref\calculator.dll
