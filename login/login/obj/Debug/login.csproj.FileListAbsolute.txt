@@ -1,0 +1,13 @@
+E:\visual programming tasks\login\login\obj\Debug\login.csproj.AssemblyReference.cache
+E:\visual programming tasks\login\login\obj\Debug\login.Form1.resources
+E:\visual programming tasks\login\login\obj\Debug\login.Properties.Resources.resources
+E:\visual programming tasks\login\login\obj\Debug\login.csproj.GenerateResource.cache
+E:\visual programming tasks\login\login\obj\Debug\login.csproj.CoreCompileInputs.cache
+E:\visual programming tasks\login\login\bin\Debug\login.exe.config
+E:\visual programming tasks\login\login\bin\Debug\login.exe
+E:\visual programming tasks\login\login\bin\Debug\login.pdb
+E:\visual programming tasks\login\login\bin\Debug\Guna.UI2.dll
+E:\visual programming tasks\login\login\obj\Debug\login.Login.resources
+E:\visual programming tasks\login\login\obj\Debug\login.csproj.CopyComplete
+E:\visual programming tasks\login\login\obj\Debug\login.exe
+E:\visual programming tasks\login\login\obj\Debug\login.pdb
